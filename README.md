@@ -14,27 +14,20 @@
 const joao = {
     location: "Brazil",
     role: "Backend Developer",
-```
-**learning:** [<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" height="20"/>](https://nodejs.org) [<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" height="20"/>](https://nextjs.org)
-
-**specialties:** `APIs` `Databases` `Architecture`
-
-**technologies:** {
-- **languages:** [<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="20"/>](https://www.typescriptlang.org/) [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="20"/>](https://developer.mozilla.org/docs/Web/JavaScript) [<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="20"/>](https://www.python.org/) [<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" height="20"/>](https://www.java.com/)
-- **backend:** [<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" height="20"/>](https://nodejs.org) [<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" height="20"/>](https://expressjs.com/)
-- **database:** [<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" height="20"/>](https://www.postgresql.org/)
-- **tools:** [<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="20"/>](https://www.docker.com/)
-
-}
-
-**contact:** {
-- **linkedin:** [joaobillo](https://www.linkedin.com/in/joaobillo)
-- **instagram:** [@joaobillo](https://www.instagram.com/joaobillo)
-- **whatsapp:** [+55 44 99710-2688](https://wa.me/5544997102688)
-- **email:** [jvcbo06@icloud.com](mailto:jvcbo06@icloud.com)
-
-}
-```typescript
+    learning: ["Node.js", "Next.js"],
+    specialties: ["APIs", "Databases", "Architecture"],
+    technologies: {
+        languages: ["TypeScript", "JavaScript", "Python", "Java"],
+        backend: ["Node.js", "Express"],
+        database: ["PostgreSQL"],
+        tools: ["Docker", "Git", "VS Code"]
+    },
+    contact: {
+        linkedin: "linkedin.com/in/joaobillo",
+        instagram: "@joaobillo",
+        whatsapp: "+55 44 99710-2688",
+        email: "jvcbo06@icloud.com"
+    },
     openToCollaborate: true
 };
 ```

@@ -38,14 +38,15 @@ const joao = {
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=black&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=black&labelColor=000000)
-![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black&labelColor=000000)
-![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=black&labelColor=000000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=black&labelColor=000000)
-![Docker](https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=black&labelColor=000000)
-![Git](https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=black&labelColor=000000)
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50"/></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50"/></a>
+<a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" height="50"/></a>
 
 </div>
 
@@ -56,10 +57,10 @@ const joao = {
 
 ### Connect with Me
 
-<a href="https://www.linkedin.com/in/joaobillo"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000"/></a>
-<a href="https://www.instagram.com/joaobillo"><img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=black&labelColor=000000"/></a>
-<a href="https://wa.me/5544997102688"><img src="https://img.shields.io/badge/WhatsApp-FFFFFF?style=for-the-badge&logo=whatsapp&logoColor=black&labelColor=000000"/></a>
-<a href="mailto:jvcbo06@icloud.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=microsoft-outlook&logoColor=black&labelColor=000000"/></a>
+<a href="https://www.linkedin.com/in/joaobillo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5" height="35"/></a>
+<a href="https://www.instagram.com/joaobillo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=E4405F" height="35"/></a>
+<a href="https://wa.me/5544997102688" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=25D366" height="35"/></a>
+<a href="mailto:jvcbo06@icloud.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&labelColor=0078D4" height="35"/></a>
 
 </div>
 
